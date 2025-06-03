@@ -1,3 +1,22 @@
+
+# Juego: Gatos Encerrados
+
+
+Este es el código fuente del juego "Gatos Encerrados" en C++.
+(ver abajo)
+---
+
+Compilacion:
+
+Abrir una terminal y ejecutar:
+```bash
+g++ -g gatos_encerrados.cpp -o gatos_encerrados
+
+
+
+/////////////////////////////////////////////////////////////////////////
+
+
 # una_multimedia_informatica_general
 
 //Gonzalez Violeta
